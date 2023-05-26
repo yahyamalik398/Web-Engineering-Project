@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "identity": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
+    {
+      "text": "This is feedback item 2 coming from the backend",
+      "rating": 9,
+      "identity": 2
+    },
+    {
+      "text": "Updated all packages to latest",
+      "rating": 6,
+      "identity": 4
+    },
+    {
+      "text": "Hello this is Yahya Malik, Software Engineering student from Sukkur IBA University.",
+      "rating": 7,
+      "identity": 5
+    }
+  ]
+}
